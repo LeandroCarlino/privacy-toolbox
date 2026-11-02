@@ -59,7 +59,7 @@ Muchas herramientas en línea gratuitas para convertir archivos, comprimir imág
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/privacy-toolbox.git
+git clone https://github.com/LeandroCarlino/privacy-toolbox.git
 
 # 2. Entrar al directorio
 cd privacy-toolbox
